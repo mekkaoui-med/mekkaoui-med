@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am a dedicated web developer with expertise in HTML, CSS, JavaScript, and React.js, building interactive and responsive user interfaces. Skilled in Bootstrap for efficient front-end development, I bring ideas to life with clean, maintainable code. My background also includes experience with databases, enabling me to manage data-driven applications effectively.<br><br>Beyond technical skills, I bring strong leadership abilities and interpersonal skills to every project. I'm passionate about collaboration and problem-solving, ensuring teams work harmoniously towards common goals while delivering high-quality solutions. 
+I am a motivated Web Developer with solid experience in HTML, CSS, JavaScript, and React.js, creating modern, responsive, and user-friendly interfaces. Proficient in Bootstrap and TailwindCSS, I focus on building clean, maintainable code and delivering efficient front-end solutions. I also have experience working with databases, allowing me to contribute to full-stack, data-driven applications.
 
+Beyond my technical expertise, I bring strong problem-solving skills, adaptability, and a collaborative mindset, making me an asset to any team. I am eager to contribute to innovative projects, grow within a professional environment, and deliver high-quality digital solutions that create real value.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed Mekkaoui) 
